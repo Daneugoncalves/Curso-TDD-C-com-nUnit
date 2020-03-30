@@ -1,0 +1,5 @@
+C:\Users\Danie\Área de Trabalho\Testes unitarios\Asserts Tests\Asserts\bin\Debug\Asserts.dll
+C:\Users\Danie\Área de Trabalho\Testes unitarios\Asserts Tests\Asserts\bin\Debug\Asserts.pdb
+C:\Users\Danie\Área de Trabalho\Testes unitarios\Asserts Tests\Asserts\obj\Debug\Asserts.csproj.CoreCompileInputs.cache
+C:\Users\Danie\Área de Trabalho\Testes unitarios\Asserts Tests\Asserts\obj\Debug\Asserts.dll
+C:\Users\Danie\Área de Trabalho\Testes unitarios\Asserts Tests\Asserts\obj\Debug\Asserts.pdb

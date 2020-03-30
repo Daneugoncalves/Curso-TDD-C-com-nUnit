@@ -1,0 +1,5 @@
+C:\Users\Danie\Área de Trabalho\Testes unitarios\Projeto_UnityTest_01\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\Danie\Área de Trabalho\Testes unitarios\Projeto_UnityTest_01\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Danie\Área de Trabalho\Testes unitarios\Projeto_UnityTest_01\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Danie\Área de Trabalho\Testes unitarios\Projeto_UnityTest_01\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\Danie\Área de Trabalho\Testes unitarios\Projeto_UnityTest_01\Calculadora\obj\Debug\Calculadora.pdb
